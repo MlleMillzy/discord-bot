@@ -22,8 +22,6 @@ client.on('message', message => {
 
 });
 
- 
 
-// CELA DOIT ÊTRE DE CETTE MANIÈRE
 
 client.login(process.env.NjE1MjE5NjE0Nzc0NzIyNTgy.XWK2QA.Tjs2C_kE31KfmNkcpbeMuVd-JX4)
