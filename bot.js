@@ -34,4 +34,4 @@ client.on('ready',() => {
     console.log("Je suis de nouveau connecté !");
   });
   
-  client.login("NjA0NjAxOTI1ODI4MDgzNzEz.XT2SJw.s-LaqyAQrXbWnzz1zeYBltRWT_E");
+  client.login("NjI1MDcxMDgwOTM1MTI5MTA4.XYaXkw.lRx9qJMnswNjo6NKveHJpK4JNxo");
