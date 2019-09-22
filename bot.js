@@ -30,8 +30,8 @@ fs.readdir('./Events/', (error, f) => {
 
 
 client.on('ready',() => {
-    client.user.setActivity("/music", { type: "PLAYING"});
+    client.user.setActivity("/help", { type: "PLAYING"});
     console.log("Je suis de nouveau connecté !");
   });
   
-  client.login("NjI1MDcxMDgwOTM1MTI5MTA4.XYaXkw.lRx9qJMnswNjo6NKveHJpK4JNxo");
+  client.login("NjI1MDcxMDgwOTM1MTI5MTA4.XYbGjg.U2dVz-nZdFmcGEii7_7EYxQmo58");
